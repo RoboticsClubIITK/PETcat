@@ -1,0 +1,18 @@
+[submodule "PETcat_vision"]
+	path = PETcat_vision
+	url = https://github.com/RoboticsClubIITK/PETcat_vision
+[submodule "PETcat_localization"]
+	path = PETcat_localization
+	url = https://github.com/RoboticsClubIITK/PETcat_localization
+[submodule "PETcat_voice"]
+	path = PETcat_voice
+	url = https://github.com/RoboticsClubIITK/PETcat_voice
+[submodule "PETcat_simulator"]
+	path = PETcat_simulator
+	url = https://github.com/RoboticsClubIITK/PETcat_simulator
+[submodule "PETcat_UI"]
+	path = PETcat_UI
+	url = https://github.com/RoboticsClubIITK/PETcat_UI
+[submodule "PETcat_motion"]
+	path = PETcat_motion
+	url = https://github.com/RoboticsClubIITK/PETcat_motion
